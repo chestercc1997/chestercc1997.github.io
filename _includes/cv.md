@@ -165,6 +165,15 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
   <td>
   <div style='float: right'>2025</div>
   <div>
+        Best Paper Nomination at ICCAD
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2025</td> -->
+</tr>
+<tr>
+  <td>
+  <div style='float: right'>2025</div>
+  <div>
         Best Paper Nomination at DAC
   </div>
   </td>
