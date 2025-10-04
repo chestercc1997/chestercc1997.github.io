@@ -10,10 +10,6 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
   <li>Graph Learning in Electronic Design Automation </li>
 </ul>
 
-<p align='justify'>
-If you are interested in my research, feel free to reach out for a discussion or potential collaboration!
-</p>
-
 
 ## <i class="fa fa-chevron-right"></i> Education
 
