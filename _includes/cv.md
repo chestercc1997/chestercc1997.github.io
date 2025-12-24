@@ -1,5 +1,5 @@
 <p align='justify'>
-I am a third-year Ph.D. candidate at Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)), advised by <a href="https://hongcezh.people.ust.hk" target="_blank">Prof. Hongce Zhang</a>. I am also a visiting scholar at the University of Maryland, College Park, where I work closely with <a href="https://ycunxi.github.io/cunxiyu/" target="_blank">Prof. Cunxi Yu</a>.
+I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)), advised by <a href="https://hongcezh.people.ust.hk" target="_blank">Prof. Hongce Zhang</a>. I am also a visiting scholar at the University of Maryland, College Park, where I work closely with <a href="https://ycunxi.github.io/cunxiyu/" target="_blank">Prof. Cunxi Yu</a>.
 </p>
 <h3>Research Interests:</h3>
 <ul>
