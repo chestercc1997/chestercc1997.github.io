@@ -8,6 +8,8 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
   <li>Equality Saturation </li>
   <li>Formal Verification Using Algebraic Methods </li>
   <li>Graph Learning in Electronic Design Automation </li>
+  <li>Vibe Coding for EDA Algorithms Evolution </li>
+  <li>Formal Verification for Vibe Coding </li>
 </ul>
 
 
@@ -73,12 +75,41 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
 [<a href="https://scholar.google.com/citations?user=xy8E1gIAAAAJ&hl=en&authuser=1">Google Scholar</a>: 0k+ citations and an h-index of 1] <br>
 <!-- Selected publications I am a primary author on are <span style='background-color: #ffffd0'>highlighted.</span> -->
 
+<h2>2026</h2>
+<table class="table table-hover">
+
+<tr id="tr-TACAS26-REVEAL" >
+<td align='right'>
+1.
+</td>
+<td>
+    <em>ReVEAL: GNN-Guided Reverse Engineering for Formal Verification of Optimized Multipliers</em> <br>
+    Chen&nbsp;Chen, <a href='https://danielakaufmann.at' target='_blank'>Daniela&nbsp;Kaufmann</a>, <a href='https://chenhui1016.github.io' target='_blank'>Chenhui&nbsp;Deng</a>, <a href='https://hongcezh.people.ust.hk' target='_blank'>Hongce&nbsp;Zhang</a>, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
+    TACAS 2026  <br>
+    
+</td>
+</tr>
+
+
+<tr id="tr-IWLS25-eLogic" >
+<td align='right'>
+2.
+</td>
+<td>
+    <em>eLogic: A E-Graph-based Logic Rewriting Framework for Majority-Inverter Graphs</em> <br>
+    Rongliang&nbsp;Fu, Wei&nbsp;Xuan, Shuo&nbsp;Yin, <a href='https://guangyuhu.me' target='_blank'>Guangyu&nbsp;Hu</a>, Chen&nbsp;Chen, <a href='https://hongcezh.people.ust.hk' target='_blank'>Hongce&nbsp;Zhang</a>, Bei&nbsp;Yu, and Tsung-Yi&nbsp;Ho<br>
+    DATE 2026  <br>
+    
+</td>
+</tr>
+
+</table>
 <h2>2025</h2>
 <table class="table table-hover">
 
 <tr id="tr-ICCAD25-CRISTAL" >
 <td align='right'>
-1.
+3.
 </td>
 <td>
     <em>Revisit Choice Network for Synthesis and Technology Mapping</em> <br>
@@ -91,7 +122,7 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
 
 <tr id="tr-ICCAD25-Eboost" >
 <td align='right'>
-2.
+4.
 </td>
 <td>
     <em>e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving</em> <br>
@@ -104,7 +135,7 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
 
 <tr id="tr-IWLS25-REVEAL" >
 <td align='right'>
-3.
+5.
 </td>
 <td>
     <em>ReVEAL: Reverse Engineering of Multiplier Architectures via Graph Learning for Computer Algebra Verification</em> <br>
@@ -117,7 +148,7 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
 
 <tr id="tr-DAC25-E-morphic" >
 <td align='right'>
-4.
+6.
 </td>
 <td>
     <em><a href='https://arxiv.org/abs/2504.11574' target='_blank'>E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis</a> </em> <br>
@@ -130,7 +161,7 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
 
 <tr id="tr-DAC25-BOOLE" >
 <td align='right'>
-5.
+7.
 </td>
 <td>
     <em><a href='https://arxiv.org/abs/2504.05577' target='_blank'>BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation</a> </em> <br>
@@ -146,7 +177,7 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
 
 <tr id="tr-DAC24-E-Syn" >
 <td align='right'>
-6.
+8.
 </td>
 <td>
     <em><a href='https://doi.org/10.1145/3649329.3656246' target='_blank'>E-Syn: E-Graph Rewriting with Technology-Aware Cost Functions for Logic Synthesis</a> </em> <br>
@@ -205,5 +236,12 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://tacas.info/artifacts-25.php" target="_blank">The 31th  International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS2025)</a></td>
+</tr>
+</table>
+
+### Reviewer
+<table class="table table-hover">
+<tr>
+  <td style='padding-right:0;'>ACM Transactions on Embedded Computing Systems (TECS)</td>
 </tr>
 </table>
