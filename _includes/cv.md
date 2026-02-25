@@ -8,8 +8,8 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
   <li>Equality Saturation </li>
   <li>Formal Verification Using Algebraic Methods </li>
   <li>Graph Learning in Electronic Design Automation </li>
-  <li>Vibe Coding for EDA Algorithms Evolution </li>
-  <li>Formal Verification for Vibe Coding </li>
+  <li>AI Compiler </li>
+  <li>Agent AI for hardware </li>
 </ul>
 
 
@@ -47,6 +47,14 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 <table class="table table-hover">
 <tr>
   <td style='padding-right:0;'>
+<span class='cvdate'>2026.03-2026.8</span>
+<p markdown="1" style='margin: 0'><strong>Research Intern</strong>, <em>Li Auto Inc.</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+(AI Infra)
+</span></p>
+  </td>
+</tr>
+<tr>
+  <td style='padding-right:0;'>
 <span class='cvdate'>2024.09-2025.06</span>
 <p markdown="1" style='margin: 0'><strong>Visiting Scholar</strong>, <em>University of Maryland, College Park</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
 (with <a href="https://ycunxi.github.io/cunxiyu/" target="_blank">Prof. Cunxi Yu</a> on logic synthesis and ML for formal verification)
@@ -78,22 +86,35 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 <h2>2026</h2>
 <table class="table table-hover">
 
-<tr id="tr-TACAS26-REVEAL" >
+<tr id="tr-DAC26-TOPCELL" >
 <td align='right'>
 1.
 </td>
 <td>
+    <em>TOPCELL: Topology Optimization of Standard Cell via LLMs</em> <br>
+    Zhan&nbsp;Song, Yu-Tung&nbsp;Liu, Chen&nbsp;Chen, Guoheng&nbsp;Sun, Jiaqi&nbsp;Yin, Chia-tung&nbsp;Ho, Ang&nbsp;Li, Haoxing&nbsp;Ren, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
+    DAC 2026  <br>
+    
+</td>
+</tr>
+
+
+<tr id="tr-TACAS26-REVEAL" >
+<td align='right'>
+2.
+</td>
+<td>
     <em>ReVEAL: GNN-Guided Reverse Engineering for Formal Verification of Optimized Multipliers</em> <br>
-    Chen&nbsp;Chen, <a href='https://danielakaufmann.at' target='_blank'>Daniela&nbsp;Kaufmann</a>, <a href='https://chenhui1016.github.io' target='_blank'>Chenhui&nbsp;Deng</a>, <a href='https://hongcezh.people.ust.hk' target='_blank'>Hongce&nbsp;Zhang</a>, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
+    Chen&nbsp;Chen, <a href='https://danielakaufmann.at' target='_blank'>Daniela&nbsp;Kaufmann</a>, <a href='https://chenhui1016.github.io' target='_blank'>Chenhui&nbsp;Deng</a>, Zhan&nbsp;Song, <a href='https://hongcezh.people.ust.hk' target='_blank'>Hongce&nbsp;Zhang</a>, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
     TACAS 2026  <br>
     
 </td>
 </tr>
 
 
-<tr id="tr-IWLS25-eLogic" >
+<tr id="tr-DATE26-eLogic" >
 <td align='right'>
-2.
+3.
 </td>
 <td>
     <em>eLogic: A E-Graph-based Logic Rewriting Framework for Majority-Inverter Graphs</em> <br>
@@ -109,7 +130,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-ICCAD25-CRISTAL" >
 <td align='right'>
-3.
+4.
 </td>
 <td>
     <em>Revisit Choice Network for Synthesis and Technology Mapping</em> <br>
@@ -122,7 +143,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-ICCAD25-Eboost" >
 <td align='right'>
-4.
+5.
 </td>
 <td>
     <em>e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving</em> <br>
@@ -135,7 +156,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-IWLS25-REVEAL" >
 <td align='right'>
-5.
+6.
 </td>
 <td>
     <em>ReVEAL: Reverse Engineering of Multiplier Architectures via Graph Learning for Computer Algebra Verification</em> <br>
@@ -148,7 +169,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-DAC25-E-morphic" >
 <td align='right'>
-6.
+7.
 </td>
 <td>
     <em><a href='https://arxiv.org/abs/2504.11574' target='_blank'>E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis</a> </em> <br>
@@ -161,7 +182,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-DAC25-BOOLE" >
 <td align='right'>
-7.
+8.
 </td>
 <td>
     <em><a href='https://arxiv.org/abs/2504.05577' target='_blank'>BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation</a> </em> <br>
@@ -177,7 +198,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-DAC24-E-Syn" >
 <td align='right'>
-8.
+9.
 </td>
 <td>
     <em><a href='https://doi.org/10.1145/3649329.3656246' target='_blank'>E-Syn: E-Graph Rewriting with Technology-Aware Cost Functions for Logic Synthesis</a> </em> <br>
