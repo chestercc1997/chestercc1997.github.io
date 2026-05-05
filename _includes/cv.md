@@ -86,9 +86,22 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 <h2>2026</h2>
 <table class="table table-hover">
 
-<tr id="tr-DAC26-TOPCELL" >
+<tr id="tr-IJCAR26-TALISMAN2" >
 <td align='right'>
 1.
+</td>
+<td>
+    <em>Avoiding Big Integers: Parallel Multimodular Algebraic Verification of Arithmetic Circuits</em> <br>
+    Clemens&nbsp;Hofstadler, <a href='https://danielakaufmann.at' target='_blank'>Daniela&nbsp;Kaufmann</a>, and Chen&nbsp;Chen<br>
+    IJCAR 2026  <br>
+    
+</td>
+</tr>
+
+
+<tr id="tr-DAC26-TOPCELL" >
+<td align='right'>
+2.
 </td>
 <td>
     <em>TOPCELL: Topology Optimization of Standard Cell via LLMs</em> <br>
@@ -99,9 +112,22 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 </tr>
 
 
+<tr id="tr-ISEDA26-AUTOPDR" >
+<td align='right'>
+3.
+</td>
+<td>
+    <em>AutoPDR: Circuit-Aware Solver Configuration Prediction for Hardware Model Checking</em> <br>
+    <a href='https://guangyuhu.me' target='_blank'>Guangyu&nbsp;Hu</a>, Chen&nbsp;Chen, Xiaofeng&nbsp;Zhou, Jiaxi&nbsp;Zhang, and <a href='https://hongcezh.people.ust.hk' target='_blank'>Hongce&nbsp;Zhang</a><br>
+    ISEDA 2026  <br>
+    
+</td>
+</tr>
+
+
 <tr id="tr-TACAS26-REVEAL" >
 <td align='right'>
-2.
+4.
 </td>
 <td>
     <em>ReVEAL: GNN-Guided Reverse Engineering for Formal Verification of Optimized Multipliers</em> <br>
@@ -114,7 +140,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-DATE26-eLogic" >
 <td align='right'>
-3.
+5.
 </td>
 <td>
     <em>eLogic: A E-Graph-based Logic Rewriting Framework for Majority-Inverter Graphs</em> <br>
@@ -130,7 +156,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-ICCAD25-CRISTAL" >
 <td align='right'>
-4.
+6.
 </td>
 <td>
     <em>Revisit Choice Network for Synthesis and Technology Mapping</em> <br>
@@ -143,7 +169,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-ICCAD25-Eboost" >
 <td align='right'>
-5.
+7.
 </td>
 <td>
     <em>e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving</em> <br>
@@ -156,7 +182,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-IWLS25-REVEAL" >
 <td align='right'>
-6.
+8.
 </td>
 <td>
     <em>ReVEAL: Reverse Engineering of Multiplier Architectures via Graph Learning for Computer Algebra Verification</em> <br>
@@ -169,7 +195,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-DAC25-E-morphic" >
 <td align='right'>
-7.
+9.
 </td>
 <td>
     <em><a href='https://arxiv.org/abs/2504.11574' target='_blank'>E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis</a> </em> <br>
@@ -182,7 +208,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-DAC25-BOOLE" >
 <td align='right'>
-8.
+10.
 </td>
 <td>
     <em><a href='https://arxiv.org/abs/2504.05577' target='_blank'>BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation</a> </em> <br>
@@ -198,7 +224,7 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
 
 <tr id="tr-DAC24-E-Syn" >
 <td align='right'>
-9.
+11.
 </td>
 <td>
     <em><a href='https://doi.org/10.1145/3649329.3656246' target='_blank'>E-Syn: E-Graph Rewriting with Technology-Aware Cost Functions for Logic Synthesis</a> </em> <br>
