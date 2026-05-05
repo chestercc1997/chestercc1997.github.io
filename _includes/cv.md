@@ -8,8 +8,8 @@ I am a fourth-year Ph.D. candidate at Hong Kong University of Science and Techno
   <li>Equality Saturation </li>
   <li>Formal Verification Using Algebraic Methods </li>
   <li>Graph Learning in Electronic Design Automation </li>
-  <li>AI Compiler </li>
-  <li>Agent AI for hardware </li>
+  <li>LLM Serving Infra and Simulators for AI accelerators </li>
+  <li>Agentic Application for hardware </li>
 </ul>
 
 
